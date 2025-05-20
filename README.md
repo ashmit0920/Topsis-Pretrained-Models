@@ -1,16 +1,16 @@
 # TOPSIS-Based Evaluation of Pretrained Models for Sentence Similarity
 
-Overview  
+## Overview  
 This project implements the TOPSIS method to rank pretrained models based on their performance in sentence similarity tasks.
 
-Goal  
+## Goal  
 The objective is to identify the most effective pretrained model for sentence similarity, considering multiple factors such as:
 
 - Accuracy (Cosine Similarity)
 - Inference Time
 - Model Size
 
-Dataset & Evaluation  
+## Dataset & Evaluation  
 Three commonly used pretrained models were tested on a set of sentence pairs:
 
 1. BERT (bert-base-uncased)
@@ -22,7 +22,7 @@ The models were evaluated against the following criteria:
 ⏳ Inference Time (Faster is better)  
 💡 Model Size (Smaller is better)
 
-Implementation Steps  
+## Implementation Steps  
 1️⃣ Load the models using the sentence-transformers library  
 2️⃣ Calculate sentence similarity scores  
 3️⃣ Measure the models' inference time and size  
