@@ -1,4 +1,4 @@
-<h1>TOPSIS-Based Evaluation of Pretrained Models for Sentence Similarity</h1>
+# TOPSIS-Based Evaluation of Pretrained Models for Sentence Similarity
 
 Overview  
 This project implements the TOPSIS method to rank pretrained models based on their performance in sentence similarity tasks.
@@ -31,14 +31,16 @@ Implementation Steps
 6️⃣ Rank the models based on their overall performance across the different metrics
 
 
-#Ranking of Pretrained Models for sentence similarity
+## Ranking of Pretrained Models for sentence similarity
 ![output1](https://github.com/user-attachments/assets/14ebc725-b122-4f26-b1b0-c6fb172c79ab)
 
 
-#Topsis_Ranking_Results.png
+## Topsis_Ranking_Results.png
 ![output](https://github.com/user-attachments/assets/a3c9058e-2dd5-4712-8090-26a084f718e4)
 
 
-Done by : Vivek Arora
-Roll no : 102203778
+Done by : Ashmit Thawait
+
+Roll no : 102203790
+
 Group : 3C42
